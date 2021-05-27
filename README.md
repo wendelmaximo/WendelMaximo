@@ -1,16 +1,32 @@
-### Hi there ðŸ‘‹
+Wendel Máximo Profile
 
-<!--
-**wendelmaximo/WendelMaximo** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Wendel*, eu tenho 16 anos e atualmente moro em Resende-RJ.
 
-Here are some ideas to get you started:
 
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
--->
+
+Estudo no SESI e Curso Desenvolvimento de Sistemans no Senai.
+
+
+
+## Minhas matérias preferidas são:
+
+- Ed.Física
+
+- Geografia
+
+- Línguas 
+  
+  - Espanhol
+  
+
+
+## Meus códigos
+
+Eu costumo usa muito o `print("Olá Mundo")`
+
+
+
+## Minhas metas :
+Sou um apaixonado por esportes e notícias, então tenho como meta fazer faculdade de jornalismo e Ed.Física,além de adpatar o curso de desenvolvedor de sistemas à área na qual desejo atuar.
+ 
+![descrição] (https://images.app.goo.gl/BJw5CQw1PDF3qWxj8)
