@@ -1,6 +1,6 @@
-Wendel M·ximo Profile
+#Wendel M√°ximo Profile
 
-Meu nome È *Wendel*, eu tenho 16 anos e atualmente moro em Resende-RJ.
+Meu nome √© *Wendel*, eu tenho 16 anos e atualmente moro em Resende-RJ.
 
 
 
@@ -8,25 +8,25 @@ Estudo no SESI e Curso Desenvolvimento de Sistemans no Senai.
 
 
 
-## Minhas matÈrias preferidas s„o:
+## Minhas mat√©rias preferidas s√£o:
 
-- Ed.FÌsica
+- Ed.F√≠sica
 
 - Geografia
 
-- LÌnguas 
+- L√≠nguas 
   
   - Espanhol
   
 
 
-## Meus cÛdigos
+## Meus c√≥digos
 
-Eu costumo usa muito o `print("Ol· Mundo")`
+Eu costumo usa muito o `print("Ol√° Mundo")`
 
 
 
 ## Minhas metas :
-Sou um apaixonado por esportes e notÌcias, ent„o tenho como meta fazer faculdade de jornalismo e Ed.FÌsica,alÈm de adpatar o curso de desenvolvedor de sistemas ‡ ·rea na qual desejo atuar.
+Sou um apaixonado por esportes e not√≠cias, ent√£o tenho como meta fazer faculdade de jornalismo e Ed.F√≠sica,al√©m de adpatar o curso de desenvolvedor de sistemas √† √°rea na qual desejo atuar.
  
-![descriÁ„o] (https://images.app.goo.gl/BJw5CQw1PDF3qWxj8)
+![descri√ß√£o] (https://images.app.goo.gl/BJw5CQw1PDF3qWxj8)
